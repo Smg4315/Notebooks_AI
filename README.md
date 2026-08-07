@@ -1,14 +1,20 @@
 # SI3003 – Inteligencia Artificial
-## Clase 2 – Algoritmos de búsqueda
 
-En esta sesión estudiaremos los principales algoritmos de búsqueda no informados e informados mediante ejemplos prácticos en Python. Cada notebook contiene explicaciones, ejemplos y actividades que resolveremos durante la clase.
+
+## Grupo 8 – Algoritmos de búsqueda
+
+### Juan Esteban Jimenez
+### Andres Osorio
+### Simon Mazo
+
+Los notebooks están en sus carpetas originales, se subió toda la carpeta de lecture2 ya que en esta hay archivos necesarios para ejecutar los notebooks.
 
 ## Contenido
 
 ```
 .
 ├── 02_algoritmos_busqueda_grafo.ipynb
-├── 02_busqueda_en_laberintos.ipynb
+├── 02_busqueda_en_laberintos.ipynb 
 ├── 02_degrees_bfs.ipynb
 └── requirements.txt
 ```
