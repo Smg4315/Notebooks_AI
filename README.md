@@ -15,7 +15,7 @@ Los notebooks están en sus carpetas originales, se subió toda la carpeta de le
 .
 ├── 02_algoritmos_busqueda_grafo.ipynb
 ├── 02_busqueda_en_laberintos.ipynb 
-├── 02_degrees_bfs.ipynb
+├── 01_hill_climbing.ipynb
 └── requirements.txt
 ```
 
@@ -54,15 +54,16 @@ Incluye varias actividades que resolveremos durante la clase.
 
 ---
 
-### 3. `02_degrees_bfs.ipynb`
+### 3. `01_hill_climbing.ipynb`
 
-Actividad individual.
+Implementación de Hill Climbing y Random Restart sobre un problema de ubicación óptima de hospitales.
 
-En este ejercicio implementarán un algoritmo BFS para encontrar la cadena más corta de actores conectados mediante películas (similar al problema de los "grados de separación").
-
-> **Este notebook no se desarrollará durante la clase.**
->
-> Se recomienda resolverlo posteriormente como práctica.
+Temas:
+- Modelado de estados, vecinos y función objetivo
+- Distancia Manhattan y distancia euclídea
+- Algoritmo Hill Climbing
+- Óptimos locales y Random Restart
+- Comparación de vecindarios y análisis de convergencia
 
 ---
 
