@@ -16,6 +16,7 @@ Los notebooks están en sus carpetas originales, se subió toda la carpeta de le
 ├── 02_algoritmos_busqueda_grafo.ipynb
 ├── 02_busqueda_en_laberintos.ipynb 
 ├── 01_hill_climbing.ipynb
+├── 03_algoritmos_geneticos.ipynb
 └── requirements.txt
 ```
 
@@ -66,6 +67,15 @@ Temas:
 - Comparación de vecindarios y análisis de convergencia
 
 ---
+
+### 4. `03_algoritmos_geneticos.ipynb`
+
+#### Objetivos
+
+- representar soluciones mediante cromosomas;
+- implementar selección, cruce y mutación;
+- observar la evolución de una población;
+- analizar el balance entre exploración y explotación.
 
 # Análisis de complejidad
 
