@@ -17,6 +17,7 @@ Los notebooks están en sus carpetas originales, se subió toda la carpeta de le
 ├── 02_busqueda_en_laberintos.ipynb 
 ├── 01_hill_climbing.ipynb
 ├── 03_algoritmos_geneticos.ipynb
+├── 06_workshop_reinas_optimizacion_local.ipynb
 └── requirements.txt
 ```
 
@@ -76,6 +77,15 @@ Temas:
 - implementar selección, cruce y mutación;
 - observar la evolución de una población;
 - analizar el balance entre exploración y explotación.
+
+### 5. `06_workshop_reinas_optimizacion_local.ipynb`
+
+#### Objetivos
+
+- modelar el problema de las N reinas como un problema de optimización;
+- implementar una función de costo y un vecindario de estados;
+- construir e implementar Hill Climbing, Random Restart y Simulated Annealing;
+- analizar el balance entre explotación y exploración, y la sensibilidad a los hiperparámetros de enfriamiento.
 
 # Análisis de complejidad
 
