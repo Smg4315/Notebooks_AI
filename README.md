@@ -17,6 +17,7 @@ Los notebooks están en sus carpetas originales, se subió toda la carpeta de le
 ├── 02_busqueda_en_laberintos.ipynb 
 ├── 01_hill_climbing.ipynb
 ├── 03_algoritmos_geneticos.ipynb
+├── 06_workshop_reinas_optimizacion_local.ipynb
 └── requirements.txt
 ```
 
