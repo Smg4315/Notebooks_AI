@@ -77,6 +77,15 @@ Temas:
 - observar la evolución de una población;
 - analizar el balance entre exploración y explotación.
 
+### 5. `06_workshop_reinas_optimizacion_local.ipynb`
+
+#### Objetivos
+
+- modelar el problema de las N reinas como un problema de optimización;
+- implementar una función de costo y un vecindario de estados;
+- construir e implementar Hill Climbing, Random Restart y Simulated Annealing;
+- analizar el balance entre explotación y exploración, y la sensibilidad a los hiperparámetros de enfriamiento.
+
 # Análisis de complejidad
 
 Para complementar la clase, el archivo [**complexity.md**](search_complexity.md) explica de manera intuitiva cómo se derivan las complejidades de tiempo y memoria de BFS, DFS, UCS, Greedy y A*.
