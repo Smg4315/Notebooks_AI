@@ -1,3 +1,5 @@
 matplotlib
 numpy
 notebook
+gymnasium
+pygame-ce
